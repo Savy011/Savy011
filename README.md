@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi 👋😁
 
 I am Savy, a Computer Science Student., currently learning Full Stack Development!
 
