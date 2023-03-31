@@ -1,6 +1,6 @@
 # Hi 👋😁
 
-I am Savy, a Computer Science Student., currently learning Full Stack Development!
+I am Savy, a Computer Science Student., currently learning Full Stack Development & Golang!
 
 ---
 
