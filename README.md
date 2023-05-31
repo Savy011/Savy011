@@ -20,7 +20,7 @@ I am Savy, a Computer Science Student., currently learning Full Stack Developmen
         <img class="Icon" alt="JavaScript" title="Javascript" src="./images/javascript.svg" height=60>
     </a> &nbsp;
     <a href="https://www.typescriptlang.org/">
-        <img class="Icon"  alt="Typescript" title="Typescript" src="./images/typescript.svg" height=60>
+        <img class="Icon"  alt="Typescript" title="Typescript" src="./images/Typescript.svg" height=60>
     </a> &nbsp;
     <a href="https://go.dev">
         <img class="Icon"  alt="Go" title="Go" src="./images/Go.svg" height=60>
