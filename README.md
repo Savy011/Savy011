@@ -1,6 +1,6 @@
 # Hi 👋😁
 
-I am Savy, a Computer Science Student., currently learning Full Stack Development!
+I am Savy, a Mechanical Engg. Student from Chandigarh, currently learning Full Stack Development!
 
 ---
 
